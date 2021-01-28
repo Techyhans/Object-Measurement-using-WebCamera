@@ -1,3 +1,8 @@
+
+#  Copyright (c) 2021.
+#  This script is prepared by TechyHans (https://techyhans.com)
+#  Anything please contact him at hanshengliang@outlook.com for more details.
+
 import cv2
 import numpy as np
 
